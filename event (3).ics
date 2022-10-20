@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AddtoCalendar.com v1.5//EN
+BEGIN:VEVENT
+DTSTAMP:20220805T105000Z
+STATUS:CONFIRMED
+UID:1659696600addtocalendar
+DTSTART:20220806T003000Z
+DTEND:20220806T004500Z
+SUMMARY:Inspection of 9/1 Boronia Street\, Kensington
+DESCRIPTION:Inspection of 9/1 Boronia Street\, Kensington\nMore details: https://www.homely.com.au/homes/9-1-boronia-street-kensington-nsw-2033/9192931\n--\nhttp://go.addtocalendar.com
+X-ALT-DESC;FMTTYPE=text/html:Inspection of 9/1 Boronia Street, Kensington<br>More details: https://www.homely.com.au/homes/9-1-boronia-street-kensington-nsw-2033/9192931<br>--<br>http://go.addtocalendar.com
+LOCATION:9/1 Boronia Street\, Kensington
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

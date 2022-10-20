@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID://realestate.com.au
+BEGIN:VEVENT
+UID:1e505df1-8a99-42c5-8153-f20449163c98
+DTSTAMP:20220803T122115Z
+SUMMARY:Inspection: 17/70 Bayswater Road\, Rushcutters Bay\, 2011
+DESCRIPTION:Property Price: $580 pw\nBedrooms: 2\nBathrooms: 1\nParking Spa
+ ces: 0\n\nView Details: https://www.realestate.com.au/434932227\n\nrealest
+ ate.com.au recommends confirming the Open for Inspection Times with the Ag
+ ent\, to ensure they have not changed.\n
+LOCATION:17/70 Bayswater Road\, Rushcutters Bay\, 2011
+DTSTART:20220806T023000Z
+DTEND:20220806T024500Z
+END:VEVENT
+END:VCALENDAR

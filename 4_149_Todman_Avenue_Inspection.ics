@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID://realestate.com.au
+BEGIN:VEVENT
+UID:15ade3bd-f607-4248-a6f4-8ea6be738ad1
+DTSTAMP:20220803T122102Z
+SUMMARY:Inspection: 4/149 Todman Avenue\, Kensington\, 2033
+DESCRIPTION:Property Price: $600 per week\nBedrooms: 2\nBathrooms: 1\nParki
+ ng Spaces: 1\n\nView Details: https://www.realestate.com.au/434934127\n\nr
+ ealestate.com.au recommends confirming the Open for Inspection Times with 
+ the Agent\, to ensure they have not changed.\n
+LOCATION:4/149 Todman Avenue\, Kensington\, 2033
+DTSTART:20220804T070000Z
+DTEND:20220804T071500Z
+END:VEVENT
+END:VCALENDAR

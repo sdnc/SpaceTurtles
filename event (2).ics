@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AddtoCalendar.com v1.5//EN
+BEGIN:VEVENT
+DTSTAMP:20220805T103514Z
+STATUS:CONFIRMED
+UID:1659695714addtocalendar
+DTSTART:20220806T021500Z
+DTEND:20220806T023000Z
+SUMMARY:Inspection of Unit 2/2 Renny Lane\, Paddington
+DESCRIPTION:Inspection of Unit 2/2 Renny Lane\, Paddington\nMore details: https://www.homely.com.au/homes/unit-2-2-renny-lane-paddington-nsw-2021/6217594\n--\nhttp://go.addtocalendar.com
+X-ALT-DESC;FMTTYPE=text/html:Inspection of Unit 2/2 Renny Lane, Paddington<br>More details: https://www.homely.com.au/homes/unit-2-2-renny-lane-paddington-nsw-2021/6217594<br>--<br>http://go.addtocalendar.com
+LOCATION:Unit 2/2 Renny Lane\, Paddington
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+END:VALARM
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
